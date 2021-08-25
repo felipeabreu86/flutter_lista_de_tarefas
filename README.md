@@ -1,16 +1,47 @@
-# flutter_lista_de_tarefas
+# Lista de Tarefas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/felipeabreu86/flutter_lista_de_tarefas/blob/main/LICENSE) 
 
-A new Flutter project.
+# Sobre o Projeto
 
-## Getting Started
+**Lista de Tarefas** é um projeto mobile cross-platform construído em Flutter voltado para o meu estudo pessoal relacionado a esta tecnologia.
 
-This project is a starting point for a Flutter application.
+Este projeto consiste em criar um app que permita ao usuário gerenciar uma lista de tarefas.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout Mobile
+<img src="https://github.com/felipeabreu86/flutter_lista_de_tarefas/blob/main/assets/screens/mobile1.jpeg" height="700" alt="Mobile 1">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Tecnologias Utilizadas
+- [flutter](https://flutter.dev/ "flutter")
+- [dart](https://dart.dev/ "dart")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Funcionalidades
+- Gerenciar as tarefas do usuário 
+
+# Como Executar o Projeto
+
+## Pré-requisitos
+- Flutter ([como instalar](https://flutter.dev/docs/get-started/install "Como instalar o Flutter"))
+
+```bash
+# clonar repositório
+git clone https://github.com/felipeabreu86/flutter_lista_de_tarefas.git
+
+# entrar na pasta do projeto
+cd flutter_lista_de_tarefas
+
+# rodar o comando abaixo para obter as dependências do projeto
+flutter pub get
+
+# descobrir os dispositivos disponíveis para executar o app
+# copiar o ID do dispositivo para utilizá-lo no próximo comando 
+flutter devices
+
+# rodar o projeto no seu dispositivo
+flutter run -d <Device ID>
+```
+
+# Autor
+
+Felipe Abreu
+
+https://www.linkedin.com/in/feabreu/

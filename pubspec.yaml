@@ -1,5 +1,5 @@
 name: flutter_lista_de_tarefas
-description: A new Flutter project.
+description: Este projeto consiste em criar um app que permita ao usuário gerenciar uma lista de tarefas.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
