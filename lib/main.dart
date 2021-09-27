@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lista_de_tarefas/screens/myTaskList.dart';
+import '/screens/myTaskList.dart';
 
 void main() {
   runApp(MyApp());

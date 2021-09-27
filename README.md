@@ -5,17 +5,22 @@
 
 **Lista de Tarefas** é um projeto mobile cross-platform construído em Flutter voltado para o meu estudo pessoal relacionado a esta tecnologia.
 
-Este projeto consiste em criar um app que permita ao usuário gerenciar uma lista de tarefas.
+Este projeto consiste em criar um app que permita ao usuário gerenciar uma lista de tarefas, salvando os dados da lista no dispositivo em um arquivo no formato json.
 
 ## Layout Mobile
 <img src="https://github.com/felipeabreu86/flutter_lista_de_tarefas/blob/main/assets/screens/mobile1.jpeg" height="700" alt="Mobile 1">
+<img src="https://github.com/felipeabreu86/flutter_lista_de_tarefas/blob/main/assets/screens/mobile2.jpeg" height="700" alt="Mobile 2">
+<img src="https://github.com/felipeabreu86/flutter_lista_de_tarefas/blob/main/assets/screens/mobile3.jpeg" height="700" alt="Mobile 3
 
 # Tecnologias Utilizadas
 - [flutter](https://flutter.dev/ "flutter")
 - [dart](https://dart.dev/ "dart")
 
 # Funcionalidades
-- Gerenciar as tarefas do usuário 
+- Adicionar tarefa via AlertDialog.
+- Remover tarefa via Dismissible.
+- Cancelar remoção via Snakbar.
+- Salvar registros em um arquivo local no formato json.
 
 # Como Executar o Projeto
 
